@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-hd3dsucksthatswhyiuseURP-0.1.0";
 const contentToCache = [
-    "Build/musicfollowership.loader.js",
-    "Build/musicfollowership.framework.js",
-    "Build/musicfollowership.data",
-    "Build/musicfollowership.wasm",
+    "Build/music2.loader.js",
+    "Build/music2.framework.js",
+    "Build/music2.data",
+    "Build/music2.wasm",
     "TemplateData/style.css"
 
 ];
