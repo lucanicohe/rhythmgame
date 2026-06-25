@@ -1,1 +1,1 @@
-link: https://lucanicohe.github.io/rhythmgame/
+link: https://lucanicohe.github.io/rhythmgame/index.html
